@@ -1,0 +1,24 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background: #007b5e !important;
+    color: white !important;
+}
+
+.vl{
+    border-left: 6px solid white;
+    height: 30px;
+}
+.main-footer{
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+p:hover{
+    color: bisque !important;
+    cursor: pointer;
+}
